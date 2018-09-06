@@ -138,7 +138,6 @@
   <ItemGroup>
     <ClInclude Include="ASnapshot.h" />
     <ClInclude Include="Command.h" />
-    <ClInclude Include="ECommandParseState.h" />
     <ClInclude Include="ProcessInfo.h" />
     <ClInclude Include="ProcessesSnapshot.h" />
     <ClInclude Include="resource.h" />

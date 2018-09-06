@@ -65,9 +65,6 @@
     <ClInclude Include="Command.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="ECommandParseState.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="ProcBlizzard.rc">

@@ -1,6 +1,5 @@
 #include "ProcessesSnapshot.h"
 #include <tlhelp32.h>
-#include <cctype>
 #include <algorithm>
 
 using namespace std;

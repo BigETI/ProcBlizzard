@@ -1,5 +1,5 @@
-#ifndef __PROC_BLIZZARD_PROCESSES_H__
-#	define __PROC_BLIZZARD_PROCESSES_H__
+#ifndef __PROC_BLIZZARD_PROCESSES_SNAPSHOT_H__
+#	define __PROC_BLIZZARD_PROCESSES_SNAPSHOT_H__
 
 #	include "ASnapshot.h"
 #	include "ProcessInfo.h"

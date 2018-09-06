@@ -3,7 +3,6 @@
 #include "ThreadsSnapshot.h"
 #include "Thread.h"
 #include "Command.h"
-#include "ECommandParseState.h"
 #include <iostream>
 #include <algorithm>
 #include <map>
